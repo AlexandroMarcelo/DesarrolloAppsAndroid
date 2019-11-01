@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Menu">
+
+    <TextView android:id="@+id/Bienvenido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="69dp"
+        android:text="@string/Bienvenida"
+        android:textColor="@android:color/black"
+        android:textSize="50sp"/>
+    <Button
+        android:id="@+id/botonAutos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Autos"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="37dp"
+        android:layout_alignEnd="@+id/botonMarcas"
+        android:layout_alignParentStart="true"/>
+    <Button
+        android:id="@+id/botonMarcas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Marcas"
+        android:layout_above="@+id/botonAutos"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"/>
+    <TextView
+        android:id="@+id/textNombre"
+        tools:text=" "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textAppaterno"
+        android:layout_alignBottom="@+id/textAppaterno"
+        android:layout_alignStart="@+id/Bienvenido"
+        android:layout_marginStart="27dp"/>
+    <TextView
+    android:id="@+id/textAppaterno"
+    tools:text=" "
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="54dp"
+    android:layout_below="@+id/Bienvenido"
+    android:layout_toEndOf="@+id/textNombre"
+    android:layout_marginStart="11dp"/>
+
+</RelativeLayout>

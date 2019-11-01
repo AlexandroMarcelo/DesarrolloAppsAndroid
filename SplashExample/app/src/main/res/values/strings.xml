@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SplashExample</string>
+    <string name="menu">MenuPrincipal</string>
+    <string name="ButtonVideo">ButtonVideo</string>
+    <string name="ImgButton">ImgButton</string>
+    <string name="ComponentesButton">ComponentesButton</string>
+    <string name="ImgResource">ImgResouce</string>
+    <string name="ComponetesBtn">Componentes</string>
+    <string name="ImageBtn">Imagen</string>
+    <string name="VideoBtn">Video</string>
+    <string name="actividad3_textView_1">Bienvenido a los componentes</string>
+    <string name="actividad3_image_1" />
+    <string name="actividad3_button_1">Soy un Boton</string>
+    <string name="actividad3_plainText_1">Puedes escrbiri sobre mi</string>
+    <string name="actividad3_radioButton_1">Soy un radiobutton</string>
+    <string name="actividad3_switch_1">Soy un switch</string>
+</resources>

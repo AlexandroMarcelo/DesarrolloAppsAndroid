@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="main_plainText" />
+    <string name="main_button_1">Guardar</string>
+    <string name="main_button_2">Recuperar</string>
+    <string name="actividad2_button_1">Siguiente</string>
+    <string name="main_button_3">Continuar</string>
+    <string name="actividad3_button_1">OBTENER</string>
+</resources>

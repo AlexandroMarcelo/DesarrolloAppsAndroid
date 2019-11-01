@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minisitema2Volley</string>
+    <string name="titulo">Log in</string>
+    <string name="usuario">Username</string>
+    <string name="password">Password</string>
+    <string name="Bienvenida">Welcome</string>
+    <string name="Marcas">Brand</string>
+    <string name="Autos">Model</string>
+    <string name="login">login</string>
+    <string name="splash">splash</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minisitema2Volley</string>
+    <string name="titulo">Log In</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contrasenia</string>
+    <string name="Bienvenida">Bienvenido</string>
+    <string name="Marcas">Marca</string>
+    <string name="Autos">Modelo</string>
+    <string name="login">Logear</string>
+    <string name="splash">Splash</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temas</string>
+    <string name="image">image</string>
+    <string name="button1">button1</string>
+    <string name="Second">Button2</string>
+    <string name="text_view1">Introduce la URL a visitar</string>
+    <string name="plain_text">Name:</string>
+    <string name="button1_url">Go</string>
+    <string name="button2">Click</string>
+    <string name="Button1_main">URL</string>
+    <string name="button3">Display the WebPage</string>
+</resources>

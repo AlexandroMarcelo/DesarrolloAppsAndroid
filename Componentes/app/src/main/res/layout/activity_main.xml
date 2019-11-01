@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clickBtnGuardar"
+        android:text="@string/main_button1"
+        tools:text="@string/main_button1" />
+
+    <Button
+        android:id="@+id/btnAbrir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clickBtnAbrir"
+        android:text="@string/main_button2"
+        tools:text="@string/main_button2" />
+
+    <ImageButton
+        android:id="@+id/btnImage"
+        android:layout_width="wrap_content"
+        android:layout_height="347dp"
+        android:adjustViewBounds="false"
+        android:background="@drawable/android"
+        android:cropToPadding="false"
+        android:onClick="clickBtnImage"
+        app:srcCompat="@drawable/android"
+        tools:srcCompat="@drawable/android" />
+
+    <EditText
+        android:id="@+id/txtNombre"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:onClick="clickTextNombre"
+        android:text="@string/main_plainText1"
+        tools:text="@string/main_plainText1" />
+
+    <CheckBox
+        android:id="@+id/checkbtnAutoguardar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clickCheckBtnAutoguardar"
+        android:text="@string/main_checkBox1"
+        tools:text="@string/main_checkBox1" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        style="?android:attr/starStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clickCheckBox2"
+        android:text="@string/main_checkBox2" />
+
+    <RadioGroup
+        android:id="@+id/main_radioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="clickCheckRadioButtons"
+            android:text="@string/main_radioButton1"
+            tools:text="@string/main_radioButton1" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="clickCheckRadioButtons"
+            android:text="@string/main_radioButton2"
+            tools:text="@string/main_radioButton2" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonOFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clickBtnOff"
+        android:text="@string/main_button3" />
+</LinearLayout>

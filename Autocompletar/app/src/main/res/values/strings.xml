@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Autocompletar</string>
+    <string name="splash_image">image</string>
+    <string name="AutoCompletar_button_1">AUTOCOMPLETAR</string>
+    <string name="AutoCompletar_textView_1">Escribe la marca del automóvil que más te guste</string>
+    <string name="AutoCompletar_AutoComplete_1" />
+</resources>

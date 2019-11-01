@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Componentes</string>
+    <string name="main_button1">Guardar</string>
+    <string name="main_button2">Abrir</string>
+    <string name="main_plainText1" />
+    <string name="main_checkBox1">Autoguardar</string>
+    <string name="main_checkBox2" />
+    <string name="main_radioButton1">Opción 1</string>
+    <string name="main_radioButton2">Opción 2</string>
+    <string name="main_button3">Off</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Esqueleto</string>
+    <string name="splashImage_image" />
+    <string name="login_textView_0">Usuario:</string>
+    <string name="login_editText_0" />
+    <string name="login_textView_1">Password:</string>
+    <string name="login_editText_2" />
+    <string name="login_button_0">LOGIN</string>
+    <string name="main_button_0">SALIR</string>
+    <string name="login_editText_1" />
+    <string name="main_textView_0">Ingresa algo para usar SharedPreferences:</string>
+    <string name="main_plainText_0" />
+    <string name="main_button_1">RECUPERAR</string>
+    <string name="main_textView_1" />
+    <string name="main_button_2">GUARDAR</string>
+    <string name="main_plainText_1" />
+    <string name="login_button_1">SALIR</string>
+</resources>

@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28a83ef06c9cc423648ec9c4237f44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/05ff5a0a2f78a23769973334f6e8c086/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/04e18731a392c171bb78f7aedfdeff18/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d8213be020ee44ad998848262616cf5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/03388b51d5ba58c8803a54ddf7850c96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6752b3e69366ffc9a3903c9189286f4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ee6b35308928fa82dfc48e45bbfb9bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96f7706e5982d09718ae55b56c9ca230/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/117797b96d414b62fe1852045d8afcef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/045fbd5185148854a0289b3e5f32d5ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/144705acd2ad0a246e7a08611e9b0a2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e4f61a1e967aa189ce8ed19fe573584b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5a32e7472b79676ae42270ff8b0e4147/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/64d8131b6180cd17694857739b47c8fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03459381a20d35b812473d53c4c2e485/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/226e88f0498421592d9e88e764a3decf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3aca41039ab259d91e4acc8f800757a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/19303407b787a680d5cddff1882647cd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4a5f5ce55539692968a80f680aa39d89/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61f638d51ee9fe277469e1b024bfdc40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eacb2637aff7670a23ce0505474f5583/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56e2c77e58231bd2d4ec2a5c60907099/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9a72d745b14e19dcdb242fac37c24f6c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/76e91cae46664c049a3567313e47417f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6eda9ff4e6f4fce42b526adff95054e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/570ecaaddca267d9a417d6c2637eaed8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/46b7cf6ee2786f470044038063d7ea05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d51921d5a9c8c0348c381dafe93fa34d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/05ff5a0a2f78a23769973334f6e8c086/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/05ff5a0a2f78a23769973334f6e8c086/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/04e18731a392c171bb78f7aedfdeff18/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/04e18731a392c171bb78f7aedfdeff18/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3aca41039ab259d91e4acc8f800757a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3aca41039ab259d91e4acc8f800757a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/19303407b787a680d5cddff1882647cd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/19303407b787a680d5cddff1882647cd/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3aca41039ab259d91e4acc8f800757a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:11:9-40
+activity#csf.itesm.minisitema2volley.MainActivity
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:12:19-47
+activity#csf.itesm.minisitema2volley.Menu
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:13:9-42
+	android:name
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:13:19-39
+activity#csf.itesm.minisitema2volley.Login
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:14:9-43
+	android:name
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:14:19-40
+activity#csf.itesm.minisitema2volley.Splash
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:15:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28a83ef06c9cc423648ec9c4237f44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28a83ef06c9cc423648ec9c4237f44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/05ff5a0a2f78a23769973334f6e8c086/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/05ff5a0a2f78a23769973334f6e8c086/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/04e18731a392c171bb78f7aedfdeff18/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/04e18731a392c171bb78f7aedfdeff18/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d8213be020ee44ad998848262616cf5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d8213be020ee44ad998848262616cf5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/03388b51d5ba58c8803a54ddf7850c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/03388b51d5ba58c8803a54ddf7850c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6752b3e69366ffc9a3903c9189286f4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6752b3e69366ffc9a3903c9189286f4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ee6b35308928fa82dfc48e45bbfb9bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ee6b35308928fa82dfc48e45bbfb9bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96f7706e5982d09718ae55b56c9ca230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96f7706e5982d09718ae55b56c9ca230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/117797b96d414b62fe1852045d8afcef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/117797b96d414b62fe1852045d8afcef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/045fbd5185148854a0289b3e5f32d5ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/045fbd5185148854a0289b3e5f32d5ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/144705acd2ad0a246e7a08611e9b0a2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/144705acd2ad0a246e7a08611e9b0a2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e4f61a1e967aa189ce8ed19fe573584b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e4f61a1e967aa189ce8ed19fe573584b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5a32e7472b79676ae42270ff8b0e4147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5a32e7472b79676ae42270ff8b0e4147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/64d8131b6180cd17694857739b47c8fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/64d8131b6180cd17694857739b47c8fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03459381a20d35b812473d53c4c2e485/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03459381a20d35b812473d53c4c2e485/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/226e88f0498421592d9e88e764a3decf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/226e88f0498421592d9e88e764a3decf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3aca41039ab259d91e4acc8f800757a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3aca41039ab259d91e4acc8f800757a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/19303407b787a680d5cddff1882647cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/19303407b787a680d5cddff1882647cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4a5f5ce55539692968a80f680aa39d89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4a5f5ce55539692968a80f680aa39d89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61f638d51ee9fe277469e1b024bfdc40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61f638d51ee9fe277469e1b024bfdc40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eacb2637aff7670a23ce0505474f5583/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eacb2637aff7670a23ce0505474f5583/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56e2c77e58231bd2d4ec2a5c60907099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56e2c77e58231bd2d4ec2a5c60907099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9a72d745b14e19dcdb242fac37c24f6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9a72d745b14e19dcdb242fac37c24f6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/76e91cae46664c049a3567313e47417f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/76e91cae46664c049a3567313e47417f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6eda9ff4e6f4fce42b526adff95054e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6eda9ff4e6f4fce42b526adff95054e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/570ecaaddca267d9a417d6c2637eaed8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/570ecaaddca267d9a417d6c2637eaed8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/46b7cf6ee2786f470044038063d7ea05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/46b7cf6ee2786f470044038063d7ea05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d51921d5a9c8c0348c381dafe93fa34d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alexmarcelo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d51921d5a9c8c0348c381dafe93fa34d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/AndroidManifest.xml

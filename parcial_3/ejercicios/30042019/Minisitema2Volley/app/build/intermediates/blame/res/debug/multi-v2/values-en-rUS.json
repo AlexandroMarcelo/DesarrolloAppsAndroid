@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "/Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/src/main/res/values-en-rUS/strings.xml",
+                    "from": {
+                        "startLines": "8,6,7,2,9,5,10,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "331,243,290,55,371,197,411,110,152",
+                        "endColumns": "39,46,40,54,39,45,41,41,44",
+                        "endOffsets": "366,285,326,105,406,238,448,147,192"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,142,183,238,278,324,366,408",
+                        "endColumns": "39,46,40,54,39,45,41,41,44",
+                        "endOffsets": "90,137,178,233,273,319,361,403,448"
+                    }
+                }
+            ]
+        }
+    ]
+}

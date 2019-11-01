@@ -1,0 +1,4 @@
+#Sat Mar 16 23:50:28 CST 2019
+base.0=/Users/alexmarcelo/Desktop/PDDM/SQLite_Compra_autos/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

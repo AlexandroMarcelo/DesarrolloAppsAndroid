@@ -1,0 +1,4 @@
+#Tue Apr 30 11:18:22 CDT 2019
+base.0=/Users/alexmarcelo/Desktop/PDDM/Minisitema2Volley/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
